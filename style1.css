@@ -1,0 +1,40 @@
+.header
+
+{
+
+ align:center;
+
+  width:1295px;
+
+  height:250px;
+
+  border-style:groove;
+
+background-color:Lightblue;
+
+}
+
+.body
+
+{
+
+ width:1295px;
+
+  height:1500px;
+
+  border-style:groove;
+
+background-color:#FFA07A;
+
+}
+
+.list
+
+{
+
+font-family:'Forte';
+
+font-size:17;
+
+}
+
